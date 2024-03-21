@@ -1,12 +1,13 @@
 <h1 align="center">Hi , I'm Goksel Manav</h1>
 <h3 align="center">A developer candidate from planet earth</h3>
 
-- 🌱 I’m currently learning **from ponci what is what**
+- 🌸 I’m currently learning **from ponci what is what**
 
 - 📫 How to reach me **goksel_manav@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/gokselmanav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokselmanav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
