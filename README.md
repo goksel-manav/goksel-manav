@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Goksel Manav</h1>
 <h3 align="center">A developer candidate from planet earth</h3>
 
-- 🌸 I’m currently learning ****
+- 🌸 I’m currently learning 
 
 - 📫 How to reach me **goksel_manav@hotmail.com**
 
